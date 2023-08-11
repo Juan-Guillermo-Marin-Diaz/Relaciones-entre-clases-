@@ -20,5 +20,10 @@ public class Baraja {
         this.mazo = mazo;
     }
 
-
+    @Override
+    public String toString() {
+        return "Baraja{" +
+                "mazo=" + mazo +
+                '}';
+    }
 }
