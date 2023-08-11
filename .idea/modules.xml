@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio 03 Baraja Guia 11/Ejercicio 03 Baraja Guia 11.iml" filepath="$PROJECT_DIR$/Ejercicio 03 Baraja Guia 11/Ejercicio 03 Baraja Guia 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia 11 Ejemplo 1/Guia 11 Ejemplo 1.iml" filepath="$PROJECT_DIR$/Guia 11 Ejemplo 1/Guia 11 Ejemplo 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relaciones Entre Clases.iml" filepath="$PROJECT_DIR$/Relaciones Entre Clases.iml" />
+    </modules>
+  </component>
+</project>
